@@ -17,6 +17,8 @@
 *.out
 *.stl
 *.ind
+*.DSNlck
+*.DBK
 
 # OrCad cache
 __pycache__/
