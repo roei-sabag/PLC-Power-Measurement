@@ -1,0 +1,27 @@
+# OrCad / PSpice temp files
+*.log
+*.asl
+*.net
+*.bak
+*.lck
+*.DRC
+*.erc
+*.tmp
+*.swp
+~$*
+
+# PSpice simulation outputs
+*.dat
+*.prb
+*.sim
+*.out
+*.stl
+*.ind
+
+# OrCad cache
+__pycache__/
+.vs/
+
+# Windows
+Thumbs.db
+desktop.ini
